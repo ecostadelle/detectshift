@@ -18,5 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['numpy','pandas','sklearn','tqdm','catboost'],
+    install_requires=['numpy','pandas','scikit-learn','tqdm','catboost'],
 ) 
